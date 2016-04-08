@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![My Portrait]({{ site.url }}/assets/glacier_profile.jpg)
+<img src="/assets/glacier_profile.jpg" width="50%" align="right">
 
 Hello. My name is Jessica Strein and I am a data analyst, bioinformatician, and developer. I discovered a passion for computers during graduate school, when my research required me to quickly learn Python and R in order to analyze my data. I love learning new languages and techniques for solving problems with data, and I am very excited about using this knowledge to create a better world. I am currently volunteering with [Defenders of Wildlife](www.defenders.org), a non-profit organization dedicated to improve support for endangered wildlife in the United States.
 
