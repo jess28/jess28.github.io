@@ -4,9 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
-##FIND OUT MORE##
+## FIND OUT MORE ##
 
-#Computer Skills#
+# Computer Skills #
 * Python
 * R and Shiny
 * HTML/CSS
@@ -21,7 +21,7 @@ permalink: /resume/
 
 ----------------
 
-#Work Experience#
+# Work Experience #
 _2015 - Present_
 
 __Defenders of Wildlife - Data analysis and visualization volunteer__
@@ -64,7 +64,7 @@ __Central Connecticut State University - Undergraduate Researcher__
 
 ----------------
 
-#Education#
+# Education #
 __Masters of Science in Genetics and Genomics__
 
 University of Connecticut, Storrs CT, 2013 - 2015

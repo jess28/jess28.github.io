@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jessica Strein - Data Analyst, Bioinformatician, Developer
+title: Jessica Strein
 email: jessica.strein@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My name is Jessica Strein and I love programming and biology. I create workflows for data analysis
