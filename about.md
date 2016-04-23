@@ -14,3 +14,5 @@ You can find more about me and my work below:
 
 * [Code examples on Github](https://github.com/jess28)
 * [My Linkedin page](www.linkedin.com/in/jessicastrein)
+* [Find me on StackOverflow](http://stackoverflow.com/users/5442607/jessica-s)
+* [I'm also on Gitlab](https://gitlab.com/u/jess28)
