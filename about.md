@@ -1,8 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
+
+<h1 class="page-heading">ABOUT ME</h1>
 
 <img src="/assets/glacier_profile.jpg" width="50%" align="right">
 

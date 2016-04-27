@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink: /resume
 ---
 
-## FIND OUT MORE ##
+<h1 class="page-heading">FIND OUT MORE</h1>
 
 # Computer Skills #
 * Python
