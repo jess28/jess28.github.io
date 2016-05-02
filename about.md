@@ -10,7 +10,7 @@ permalink: /about
 
 Hello. My name is Jessica Strein and I am a data analyst, bioinformatician, and developer. I discovered a passion for computers during graduate school, when my research required me to quickly learn Python and R in order to analyze my data. I love learning new languages and techniques for solving problems with data, and I am very excited about using this knowledge to create a better world. I am currently volunteering with [Defenders of Wildlife](www.defenders.org), a non-profit organization dedicated to improve support for endangered wildlife in the United States.
 
-While I spend most of my time staring at my computer, I also love getting outside and exploring nature.
+While I spend most of my time staring at my computer, I also love getting outside and seeing the world. I love observing both man-made and natural beauty, because they both can greatly inspire me.
 
 You can find more about me and my work below:
 
