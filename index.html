@@ -6,12 +6,11 @@ layout: default
 
   <h1 class="page-heading">Data Analyst, Biologist, Developer</h1>
 
-  <div class="left">
-    Come learn more about me beyond the coding!
-    <a href='javascript:void(0)' onclick='window.location = {{ "/about/" | prepend: site.baseurl }}'>
-        <span class='default-link'></span>
-    </a>
-  </div>
+  <a href='{{ "/about/" | prepend:site.baseurl }}'>
+    <div class ="left">
+      Come learn more about me beyond the coding!
+    </div>
+  </a>
   <div class="right">
     You can learn about my professional accomplishments.
     <a href='javascript:void(0)' onclick='window.location = {{ "/resume/" | prepend: site.baseurl }}'>
