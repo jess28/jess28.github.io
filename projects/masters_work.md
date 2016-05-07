@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/masters_work
+permalink: /projects/masters_work/
 ---
 
 <h1 class="page-heading">AN EXPLORATION OF COPY NUMBER VARIATION BETWEEN THE SEXES</h1>
