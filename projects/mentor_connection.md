@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /mentor_connect
+permalink: /projects/mentor_connect
 ---
 
 <h1 class="page-heading">MENTOR CONNECTION</h1>
