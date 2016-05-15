@@ -12,8 +12,8 @@ If you are interested in seeing more, you can request access to the closed app a
 
 SCREENSHOTS
 
-![Image upload preview]({{base}}/assets/image_prev_main.png)
+![Image upload preview]({{base}}/assets/image_prev_main.PNG)
 
-![Image search preview]({{base}}/assets/image_prev_find.png)
+![Image search preview]({{base}}/assets/image_prev_find.PNG)
 
 Languages used: R, Shiny, HTML, CSS
