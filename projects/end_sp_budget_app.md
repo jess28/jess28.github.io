@@ -10,4 +10,12 @@ One thing that Defenders of Wildlife wants to showcase in their policy advocatin
 
 If you are interested in seeing more, you can request access to the closed app at the Defenders of Wildlife [Development Page](https://defend-esc-dev.org/).
 
+SCREENSHOTS
+
+![Map of expenditures]({{base}}/assets/budget_map.PNG)
+
+![Expenditures by species]({{base}}/assets/budget_charts_1.PNG)
+
+![Expenditure correlations]({{base}}/assets/budget_charts_2.PNG)
+
 Languages used: R, Shiny, HTML, CSS
