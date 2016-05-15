@@ -11,7 +11,9 @@ Part of Defenders of Wildlife's mission is to raise awareness for endangered spe
 If you are interested in seeing more, you can request access to the closed app at the Defenders of Wildlife [Development Page](https://defend-esc-dev.org/).
 
 SCREENSHOTS
-![Image upload preview](/assets/image_prev_main.png)
-![Image search preview](/assets/image_prev_find.png)
+
+![Image upload preview]({{base}}/assets/image_prev_main.png)
+
+![Image search preview]({{base}}/assets/image_prev_find.png)
 
 Languages used: R, Shiny, HTML, CSS
